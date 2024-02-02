@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/supermarket-ai-assistant">
-    <img src="https://github.com/paydos/shoppingtrolleyAI/blob/main/image.jpeg" alt="Logo" width="80" height="80" style="border-radius: 10%;">
+    <img src="image.jpeg" alt="Logo" width="80" height="80" style="border-radius: 10%;">
   </a>
 
   <h3 align="center">Supermarket AI Shopping Assistant</h3>
